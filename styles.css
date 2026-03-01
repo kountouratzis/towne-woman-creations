@@ -471,6 +471,13 @@ textarea {
     box-shadow: var(--shadow-lg);
 }
 
+/* Product card as anchor link */
+a.product-card {
+    text-decoration: none;
+    color: inherit;
+    display: block;
+}
+
 .product-image {
     position: relative;
     aspect-ratio: 1;
